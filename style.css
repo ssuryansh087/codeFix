@@ -26,9 +26,10 @@ body{
 	font-family: 'Roboto', sans-serif;
 	text-decoration: none;
 	float: right;
-	padding-left: 3%;
-	padding-right: 2%;
-	padding-top: 15px;
+	margin-left: 3%;
+	margin-right: 2%;
+	margin-top: 15px;
+	transition-duration: 0.5s;
 }
 
 .topnav a:hover {
@@ -41,9 +42,9 @@ body{
 	font-size: 40px;
 	font-family: monospace;
 	float: left;
-	padding-top: 10px;
-	padding-left: 5%;
-	padding-right: 20%;
+	margin-top: 10px;
+	margin-left: 5%;
+	margin-right: 20%;
 }
 
 .topnav a.cprogramming {
@@ -52,9 +53,10 @@ body{
 	font-family: 'Roboto', sans-serif;
 	text-decoration: none;
 	float: right;
-	padding-left: 3%;
-	padding-right: 2%;
-	padding-top: 15px;
+	margin-left: 3%;
+	margin-right: 2%;
+	margin-top: 15px;
+	transition-duration: 0.5s;
 }
 
 .topnav a.java {
@@ -63,9 +65,10 @@ body{
 	font-family: 'Roboto', sans-serif;
 	text-decoration: none;
 	float: right;
-	padding-left: 3%;
-	padding-right: 2%;
-	padding-top: 15px;
+	margin-left: 3%;
+	margin-right: 2%;
+	margin-top: 15px;
+	transition-duration: 0.5s;	
 }
 
 .topnav a.cprogramming:hover {
